@@ -1,5 +1,5 @@
 # Book Recommendation System
-![Book Recommendation](https://raw.githubusercontent.com/GauravRavan/book-recommendation/assets/e7e401f3-510f-4f8e-9c47-52b227a5999f)
+![Book Recommendation](https://raw.githubusercontent.com/user-attachments/assets/e7e401f3-510f-4f8e-9c47-52b227a5999f)
 
 ## 📌 Overview
 This project is a **Book Recommendation System** that provides personalized book suggestions based on:
