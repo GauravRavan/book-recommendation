@@ -1,5 +1,5 @@
 # Book Recommendation System
-![Book Recommendation](https://github.com/user-attachments/assets/9a8c7500-fe34-4b2a-bbf9-9261b994d16f)
+![Book Recommendation](https://github.com/user-attachments/assets/e5b36ea3-66b7-427e-b2d4-1041c9acc595)
 
 ## 📌 Overview
 This project is a **Book Recommendation System** that provides personalized book suggestions based on:
@@ -58,10 +58,10 @@ This project is a **Book Recommendation System** that provides personalized book
 
 ## 📊 Screenshots
 ### 🔹 Home Page
-![Home Page](https://raw.githubusercontent.com/user-attachments/assets/e7e401f3-510f-4f8e-9c47-52b227a5999f)
+![Home Page](https://github.com/user-attachments/assets/e5b36ea3-66b7-427e-b2d4-1041c9acc595)
 
 ### 🔹 Recommendation Page
-![Recommendation Page](https://raw.githubusercontent.com/user-attachments/assets/9a8c7500-fe34-4b2a-bbf9-9261b994d16f)
+![Recommendation Page](https://github.com/user-attachments/assets/9a8c7500-fe34-4b2a-bbf9-9261b994d16f)
 
 ## 📌 Future Enhancements
 - Improve recommendation accuracy using deep learning models.
